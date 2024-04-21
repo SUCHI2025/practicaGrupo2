@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Generar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Generar\ here.\r\n\ \r\n\ @author\ (Daniel\ Gutierrez)\ \r\n\ @version\ (20.04.2024)\r\n
+comment1.params=c\ x
+comment1.target=boolean\ puedoGenerar(java.lang.String[],\ java.lang.String)
+comment2.params=c\ x\ i\ j
+comment2.target=boolean\ coincide(java.lang.String[],\ java.lang.String,\ int,\ int)
+numComments=3
